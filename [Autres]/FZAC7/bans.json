@@ -1,0 +1,23 @@
+[
+  {
+    "playerName": "InvalidPlayerName",
+    "identifiers": [],
+    "bannedUntil": "5000-01-01T00:00:00",
+    "banReason": "🔒FZAC7 : You are banned from this server",
+    "bannedBy": "🔒FZAC7"
+  },
+  {
+    "playerName": "Diego Zalez",
+    "identifiers": [
+      "steam:110000141f57d5f",
+      "license:2651008dd1d954af1b8ea21adf368a8d67797032",
+      "xbl:2535405420921168",
+      "live:844424986185995",
+      "discord:401143280672440324",
+      "ip:85.27.41.242"
+    ],
+    "bannedUntil": "5000-01-01T00:00:00",
+    "banReason": "🔒FZAC7 : You are banned from this server",
+    "bannedBy": "🔒FZAC7"
+  },
+]
